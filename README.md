@@ -1,4 +1,4 @@
 # ToDoListApp
 a to do app by using Core Data 
 
-<img  width="350" height="500"  />
+<img "https://github.com/nazlicancay/ToDoListApp/blob/main/ezgif.com-video-to-gif.gif" width="350" height="500"  />
